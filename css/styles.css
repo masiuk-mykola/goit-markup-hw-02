@@ -69,6 +69,10 @@ li {
   color: var(--primary-color);
 }
 
+.current {
+  color: var(--primary-color);
+}
+
 /* Стиль для адреси */
 .contacts {
   font-size: var(--h4-font-size);
