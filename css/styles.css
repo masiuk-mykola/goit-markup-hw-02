@@ -198,7 +198,8 @@ body {
   cursor: pointer;
 }
 
-.filter-btn:hover {
+.filter-btn:hover,
+.filter-btn:focus {
   color: var(--text-color-white);
   background-color: var(--primary-color);
 
